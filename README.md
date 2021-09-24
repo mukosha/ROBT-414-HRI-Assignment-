@@ -71,4 +71,4 @@ The algorithm that runs through all the points throughout all the frames of the 
             garbage_option_timer += 1              
 ```
 
-## Okay, that's it, good luck!
+## Thank you for attention.
